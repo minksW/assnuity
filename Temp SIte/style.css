@@ -1,0 +1,12 @@
+body {
+background-color: blueviolet;
+}
+#container {
+    background-color: white;
+}
+
+#header {
+background-color: darkgreen;
+color: cadetblue; 
+text-align: center; 
+}
