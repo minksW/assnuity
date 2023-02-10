@@ -5,3 +5,4 @@ discord: https://discord.gg/MJmdvKmjYj
 hii, i got the github back using safari
 our site: not real but can be useful for annoucements and extra links
 http://bit.ly/3IKHPvg
+dbu may be delayed due to osh
