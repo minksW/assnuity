@@ -1,2 +1,3 @@
-no longer maintaned, this will become read-only at June 1st, join the discord if u want some scripts here
-https://bit.ly/assnuity
+i changed my mind on archiving assnuity, i'll let it stay for good
+<<<Scripts:(https://bit.ly/assnuity)>>>
+hit us up at mailto:minksmediagroupent@gmail.com)
