@@ -1,4 +1,3 @@
-i changed my mind on archiving assnuity, i'll let it stay for good
-<<<Scripts:(https://bit.ly/assnuity)>>>
-hit us up at mailto:minksmediagroupent@gmail.com)
-giving out edgenuity scripts?  📧 us and i will add them to our releases
+drop scripts off at our email (minksmediagroupent@gmail.com)
+otherwise join the discord (https://bit.ly/assnuity)
+
