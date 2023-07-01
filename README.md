@@ -1,3 +1,1 @@
-drop scripts off at our email (minksmediagroupent@gmail.com)
-otherwise join the discord (https://bit.ly/assnuity)
-
+no more scripts will be posted here, if you need scripts visit our discord (https://bit.ly/assnuity)
